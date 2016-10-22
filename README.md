@@ -13,4 +13,3 @@ https://github.com/groupgets/purethermal1-firmware/wiki/IDE-and-debug-setup
 Now I loosely followed this:
 
 http://www.erikandre.org/2015/09/getting-started-with-openstm32-on-osx.html
-
